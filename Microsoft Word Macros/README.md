@@ -9,7 +9,7 @@ http://msdn.microsoft.com/en-us/library/bb608625.aspx
 <br/>
 <br/>
 Then you can press alt+F11 to open the macro window. <br/>
-From there you should be able to import the file under the modules folder
+From there you should be able to import the FormattingMacro.bas file under the modules folder
 <br/>
 <br/>
 After it's imported on the developer tab in Word you can click the developer tab, macros, then select replaceall, and click run. At which point the formatting should be applied.
